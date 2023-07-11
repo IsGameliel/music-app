@@ -13,11 +13,6 @@
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-# CLaaT Document
-
-[Access the Claat document here](https://codelabs-preview.appspot.com/?file_id=12z0C4Hw5840SwWBf6vqpAS81ir7TEm-NcLhjHyZOQW4#12) 🚀
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kshitijzutshi/DAMG7245-Final-Project)
 
 # Overview 📝
 
@@ -286,21 +281,6 @@ For the scope of the project we have incorporated the following Github Actions w
  ┣ 📜requirements_dev.txt
  ┗ 📜send_email.py
  ```
-
-
-# Project Demo Walk through Video
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MqxsdbIJzzc/0.jpg)](https://www.youtube.com/watch?v=MqxsdbIJzzc)
-
-
-# Contributions
-
-| Contributor           | GitHub Issues                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Status     | % Contribution |
-|:---------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------------:|
-| Kshitij Zutshi        | ![Issue #4](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/4), ![Issue #10](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/10), ![Issue #9](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/9), ![Issue #6](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/5), ![Issue #6](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/6), ![Issue #17](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/17), ![Issue #23](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/23), ![Issue #21](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/21), ![Issue #26](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/26), ![Issue #27](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/27) | ✅ Complete | 40%            |
-| Priyanka Dilip Shinde | ![Issue #1](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/1), ![Issue #5](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/5), ![Issue #6](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/6), ![Issue #12](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/12), ![Issue #24](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/24), ![Issue #7](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/7), ![Issue #20](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/20)                                                                                                                                                                                                                                                    | ✅ Complete | 35%            |
-| Dwithika Shetty       | ![Issue #2](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/2), ![Issue #6](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/5), ![Issue #11](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/11), ![Issue #22](https://github.com/kshitijzutshi/DAMG7245-Final-Project/issues/22)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ✅ Complete | 25%            |
-
 
 
 
